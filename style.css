@@ -4,20 +4,22 @@ font-style: normal;
 font-family: Poppins;
 font-style: normal;
 color: white;
-margin-bottom: 2%;
+margin-bottom: 6%;
+padding-bottom: 4%;
 }
 
 
 .container-two{
 background-color: rgb(100, 15, 236);
-width: 985px;
-height: 430px;
+width: 1385px;
+height: 630px;
 font-family: Poppins;
 font-style: normal;
 font-weight: bolder;
 font-size: 44px;
 color: white;
-margin-top: 2%;   
+margin-top: 6%;   
+padding-top: 4%;
 }
 
 
