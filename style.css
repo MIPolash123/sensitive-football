@@ -1,8 +1,10 @@
 .container-one{
-color:rgb(100, 15, 236);
-font-style: white;
+background-color:rgb(100, 15, 236);
+font-style: normal;
 font-family: Poppins;
 font-style: normal;
+color: white;
+margin-bottom: 2%;
 }
 
 
@@ -10,17 +12,13 @@ font-style: normal;
 position: absolute;
 width: 985px;
 height: 430px;
-
+background-color: rgb(100, 15, 236);
 font-family: Poppins;
 font-style: normal;
 font-weight: bolder;
 font-size: 44px;
-line-height: 80px;
-/* or 125% */
-
-
-color: rgb(100, 15, 236);
-    
+color: white;
+margin-top: 2%;   
 }
 .navbar-brand{
     padding-left: 160px;
