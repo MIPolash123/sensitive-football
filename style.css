@@ -1,19 +1,25 @@
+.container-one{
+color:rgb(100, 15, 236);
+font-style: white;
+font-family: Poppins;
+font-style: normal;
+}
+
+
 .container-two{
-    position: absolute;
-width: 485px;
-height: 230px;
-left: 156px;
-top: 207px;
+position: absolute;
+width: 985px;
+height: 430px;
 
 font-family: Poppins;
 font-style: normal;
-font-weight: bold;
-font-size: 64px;
+font-weight: bolder;
+font-size: 44px;
 line-height: 80px;
 /* or 125% */
 
 
-color: #FFFFFF;
+color: rgb(100, 15, 236);
     
 }
 .navbar-brand{
@@ -23,26 +29,20 @@ color: #FFFFFF;
 .right-navbar-brand{
     padding-right: 100px;
 }
-h5{
-  color: rgb(243, 111, 111);
-  font-size: 16px;
-}
+
 h1{
-  font-size: 40px;
+  font-size: 30px;
   font-weight: bolder;
-  color: black;
-}
-.any-schedule{
-  color: rgb(16, 218, 167);
+  color: white;
 }
 
 .intro{
-    background-color: rgb(16, 218, 167);;
+    background-color:rgb(243, 111, 162);
     border: none;
-    border-radius:30px;
-    width:90px;
+    border-radius:10px;
+    width:150px;
     height: 30px;
-    color: whitesmoke;
+    color:white;
 }
 .Document{
     margin-top: 100px;
