@@ -6,8 +6,6 @@ font-style: normal;
 
 .container-one{
 background-color:rgb(100, 15, 236);
-width: 1285px;
-height: 430px;
 color: white;
 }
 
@@ -26,6 +24,14 @@ h1{
     height: 30px;
     color:white;
 }
+
+.super-player img{
+    width: 50%;
+}
+.super-player{
+    
+}
+
 .Document{
     margin-top: 100px;
     text-align:center;
