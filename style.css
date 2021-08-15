@@ -7,12 +7,13 @@ font-family: Poppins;
 
 .left-work{
     color: white;
-    padding-left: 6%;
+    padding-left: 8%;
 }
 .container-one{
 background-color:rgb(100, 15, 236);
 color: white;
 padding-bottom: 4%;
+padding-right: 2%;
 }
 
 h1{
@@ -31,7 +32,7 @@ h1{
 }
 
 .super-player img{
-    width: 110%;
+    width: 90%;
 }
 .super-player{
     margin-top: 6%;
