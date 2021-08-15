@@ -1,8 +1,12 @@
-.section{
-font-family: Poppins;
-font-style: normal;
-}
 
+
+body{
+font-family: Poppins;
+
+}
+.first{
+    color: white;
+}
 
 .container-one{
 background-color:rgb(100, 15, 236);
