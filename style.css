@@ -12,13 +12,12 @@ font-family: Poppins;
 .container-one{
 background-color:rgb(100, 15, 236);
 color: white;
-padding-bottom: 4%;
-padding-right: 2%;
+
 }
 
 h1{
-  font-size: 90px;
-  font-weight: 700;
+  font-size: 80px;
+  font-weight: 900;
   color: white;
 }
 
@@ -35,10 +34,13 @@ h1{
     width: 90%;
 }
 .super-player{
-    margin-top: 6%;
-    margin-left: 2%;
+    margin-top: 8%;
+    padding: 4%;
+    margin-left: 6%;
     color: white;
+    margin-right: 2%;
     padding-right: 3%;
+    padding-bottom: 6%;
 }
 
 .Document{
