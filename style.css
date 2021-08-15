@@ -4,6 +4,9 @@ body{
 font-family: Poppins;
 
 }
+.navbar{
+    color: white;
+}
 .left-work{
     color: white;
     padding-left: 6%;
