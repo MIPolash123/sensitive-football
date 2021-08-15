@@ -4,8 +4,9 @@ body{
 font-family: Poppins;
 
 }
-li{
+.left-work{
     color: white;
+    padding-left: 6%;
 }
 .container-one{
 background-color:rgb(100, 15, 236);
