@@ -7,6 +7,10 @@ font-family: Poppins;
 .navbar{
     color: white;
 }
+.nav-link{
+color: white;
+}
+
 .left-work{
     color: white;
     padding-left: 6%;
