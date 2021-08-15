@@ -4,10 +4,9 @@ body{
 font-family: Poppins;
 
 }
-.collapse{
+li{
     color: white;
 }
-
 .container-one{
 background-color:rgb(100, 15, 236);
 color: white;
