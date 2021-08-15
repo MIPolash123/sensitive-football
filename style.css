@@ -1,37 +1,18 @@
 .section{
 font-family: Poppins;
 font-style: normal;
-width: 1285px;
-height: 430px;
-
 }
 
 
 .container-one{
 background-color:rgb(100, 15, 236);
-
-
-margin-bottom: 6%;
-padding-bottom: 4%;
-}
-
-
-.container-two{  
-background-color: rgb(100, 15, 236);
-
-
-
-font-weight: bolder;
-font-size: 44px;
+width: 1285px;
+height: 430px;
 color: white;
-margin-top: 6%;   
-padding-top: 4%;
-
 }
-
 
 h1{
-  font-size: 30px;
+  font-size: 50px;
   font-weight: bolder;
   color: white;
 }
