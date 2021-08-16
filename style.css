@@ -65,6 +65,9 @@ h1{
 
  .second{
     margin-top: 50px;
+    margin-left: 6%;
+    margin-right: 6%;
+    padding: 2%;
    
 }
 .card-footer{
@@ -74,13 +77,7 @@ h1{
     font-weight: 500;
     font-family: serif;
 }
-.any-schedule{
-    color: rgb(16, 218, 167);
-}
-.learn{
-    color: rgb(255, 0, 0);
-    font-size: 16px;
-}
+
 .Testimonial{
     text-align: center;
     margin-top: 50px;
