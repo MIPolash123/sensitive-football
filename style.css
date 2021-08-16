@@ -71,7 +71,10 @@ h1{
    
 }
 .second img{
-    padding-top: 2%;
+    padding-top: 5%;
+}
+.card{
+    margin-top: 4%;
 }
 .card-footer{
     border:none;
