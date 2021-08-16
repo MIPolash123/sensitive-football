@@ -5,17 +5,13 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
 
-.left-work{
-    color: white;
-    font-weight: bold;
-    font-size: small;
-    padding-left: 8%;
-  
-}
 .container-one{
 background-color:rgb(100, 15, 236);
 color: white;
-
+}
+.left-work{
+    padding-left: 8%;
+  
 }
 
 h1{
