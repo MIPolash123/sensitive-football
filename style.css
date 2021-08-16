@@ -18,7 +18,15 @@ h1{
   font-weight: 650;
  
 }
-
+.nav-link{
+    color: white;
+}
+.navbar{
+    padding: 4%;
+    margin-left: 6%;
+    margin-right: 2%;
+    padding-right: 2%;
+}
 .intro{
     font-weight: bolder;
     background-color:  rgb(255, 0, 0);
