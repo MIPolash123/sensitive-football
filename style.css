@@ -44,14 +44,6 @@ h1{
     padding-bottom: 6%;
 }
 
-.Document{
-    margin-top: 100px;
-    text-align:center;
-    font-size: smaller;
-    font-family: sans-serif;
-    font-weight:bolder;
-    margin-bottom: 50px;
-}
 
 .note1,.note2,.note3,.note4{
     border: none;
@@ -68,6 +60,7 @@ h1{
     margin-left: 6%;
     margin-right: 6%;
     padding: 2%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
    
 }
 .second img{
@@ -76,6 +69,14 @@ h1{
 .card{
     margin-top: 2%;
 }
+
+.card-title{
+    font-size: medium;
+    font-weight: bolder;
+    
+}
+
+
 .card-footer{
     border:none;
     background-color: white;
