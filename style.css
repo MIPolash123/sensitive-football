@@ -18,6 +18,18 @@ h1{
   font-weight: 650;
  
 }
+#navbarTogglerDemo03{
+    color: white;
+}
+
+.intro{
+    background-color:  rgb(255, 0, 0);
+    border: none;
+    width:150px;
+    height: 70px;
+    color: white
+
+}        
 
 .super-player img{
     width: 90%;
