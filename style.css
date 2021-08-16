@@ -22,10 +22,11 @@ h1{
     color: white;
 }
 .navbar{
-    padding: 4%;
-    margin-left: 6%;
+    padding: 2%;
+    margin-left: 3%;
     margin-right: 2%;
     padding-right: 2%;
+    color: white;
 }
 .intro{
     font-weight: bolder;
