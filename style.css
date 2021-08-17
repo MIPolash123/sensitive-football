@@ -18,14 +18,13 @@ h1{
   font-weight: 650;
  
 }
-.nav-link{
-    color: white;
-}
+
 .navbar{
     padding: 2%;
     margin-left: 6%;
+    padding-left: 2%;
     margin-right: 4%;
-    padding-right: 2%;
+    padding-right: 4%;
     color: white;
     text-emphasis-color: white;
 }
@@ -36,7 +35,12 @@ h1{
     width:150px;
     height: 40px;
     color: white
-}        
+}    
+.special-effect:hover{
+    color: indianred;
+    font-size: 60px;
+    background-color: rgb(124, 252, 0);
+}    
 
 .super-player img{
     width: 90%;
