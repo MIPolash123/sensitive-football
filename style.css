@@ -41,7 +41,7 @@ h1{
 }    
 .special-effect:hover{
     color: indianred;
-    font-size: 60px;
+    font-size: 15px;
     background-color: rgb(124, 252, 0);
 }    
 
