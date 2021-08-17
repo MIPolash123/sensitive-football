@@ -12,7 +12,7 @@ color: white;
 background-color:rgb(100, 15, 236);
 color: white;
 }
-.bg-honeydew{
+li:nth-child(2n+1){
     color: white;
 }
 
