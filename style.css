@@ -103,10 +103,12 @@ h1{
     margin-top: 50px;
 }
 .fourth img{
-    
-     size: ;
+    size: 70%;
 }
- 
+.fab fa{
+    width:125%;
+    padding: 2%;
+} 
  
 footer{
   font-size: small;
