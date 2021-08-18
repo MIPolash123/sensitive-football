@@ -7,11 +7,10 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 .container-one{
 color: white;
-}
-.left-work{
 background-color:rgb(100, 15, 236);
-color: white;
 }
+
+
 li:nth-child(2n+1){
     color: white;
 }
@@ -22,17 +21,17 @@ h1{
  
 }
 
-.navbar{
+.nav-item{
     color: white;
     margin-left: 6%;
     padding: 4%;
-    margin-right: 6%;
-    padding-right: 4%;
+    margin-right: 4%;
+    ;
 }
 
 .intro{
     font-weight: bolder;
-    background-color:  #ff00b3d7;
+    background-color:  #ff69b4;
     border: none;
     width:150px;
     height: 40px;
@@ -91,9 +90,10 @@ h1{
     margin-left: 6%;
     margin-right: 4%;
     padding: 2%;
-    font-size: 60px;
-    font-weight: 650;
- 
+}
+h3{
+    font-size: 50px;
+    font-weight: 500;
 }
 
 .third img{
