@@ -87,18 +87,26 @@ h1{
     font-weight: 500;
     font-family: serif;
 }
+.third{
+    margin-top: 4%;
+    margin-bottom: 4%;
+    margin-left: 6%;
+    margin-right: 6%;
+    padding: 2%;
+   
+}
 
-.Testimonial{
-    text-align: center;
-    margin-top: 50px;
+.review{
+    padding: 2%;
 }
 .Messi-match img{
-    width: 70%;
+    width: 30%;
+    padding: 2%;
 }
 .fourth img{
     width:30%;
     margin-bottom:2%;
-    padding: 4%;
+    
 }
 .fab fa{
     width: 100%;
