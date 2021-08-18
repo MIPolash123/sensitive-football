@@ -92,12 +92,16 @@ h1{
     text-align: center;
     margin-top: 50px;
 }
+.Messi-match img{
+    width: 70%;
+}
 .fourth img{
     width:30%;
     margin-bottom:2%;
+    padding: 4%;
 }
-.social-media img{
-    width: 200%;
+.fab fa{
+    width: 100%;
     padding:4%;
     margin-top:2%;
     padding-bottom: 2%;
