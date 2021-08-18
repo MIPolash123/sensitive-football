@@ -8,19 +8,15 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 .container-one{
 color: white;
 background-color:rgb(100, 15, 236);
+margin-left: 6%;
+margin-right: 2%;
+padding-right: 2%;
 }
 
 h1{
   font-size: 70px;
   font-weight: 650;
  
-}
-
-.nav-item{
-    margin-left: 10%;
-    margin-right: 2%;
- 
-
 }
 
 .intro{
@@ -43,10 +39,7 @@ h1{
 .super-player{
     margin-top: 8%;
     padding: 4%;
-    margin-left: 6%;
-    margin-right: 2%;
-    padding-right: 2%;
-    padding-bottom: 6%;
+   padding-bottom: 6%;
  
 }
 
