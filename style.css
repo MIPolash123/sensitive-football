@@ -18,10 +18,10 @@ h1{
 
 .nav-item{
     color: white;
-    margin-left: 8%;
-    padding: 2%;
+    margin-left: 6%;
+    padding-left: 2%;
     margin-right: 6%;
-    
+    padding-right: 2%;
 }
 
 .intro{
