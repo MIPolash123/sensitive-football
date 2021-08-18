@@ -8,9 +8,12 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 .container-one{
 color: white;
 background-color:rgb(100, 15, 236);
-margin-left: 6%;
-margin-right: 2%;
-padding-right: 2%;
+}
+.left-work{
+    margin-left: 6%;
+    padding-left: 4%;
+    margin-right: 2%;
+    padding-right: 2%;
 }
 
 h1{
@@ -39,7 +42,7 @@ h1{
 .super-player{
     margin-top: 8%;
     padding: 4%;
-   padding-bottom: 6%;
+    padding-bottom: 6%;
  
 }
 
