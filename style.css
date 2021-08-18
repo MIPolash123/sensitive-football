@@ -16,10 +16,11 @@ h1{
  
 }
 
-.navbar{
+.nav-item{
+    padding: 4%;
     margin-left: 6%;
-    padding-left: 2%;
     margin-right: 2%;
+    padding-right: 2%;
 
 }
 
