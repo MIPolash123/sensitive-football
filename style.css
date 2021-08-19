@@ -6,7 +6,7 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .container-one{
-color: white;
+color: white;!important
 background-color:rgb(100, 15, 236);
 }
 .left-work{
